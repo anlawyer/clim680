@@ -7,6 +7,6 @@ I'm using data from the [ERA5 post-processed daily statistics reanalysis](https:
 ## Assignment 1
 ### Multi-panel monthly climatology map
 
-This project uses `xarray` and `cartopy` to create a facet grid of mean monthly max temperature across the globe: 
+This [project](https://github.com/anlawyer/clim680/blob/main/multipanel-climatology.ipynb) uses `xarray` and `cartopy` to create a facet grid of mean monthly max temperature across the globe: 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/3ea5b104-3482-4a38-93ce-da9c5601135e" />
