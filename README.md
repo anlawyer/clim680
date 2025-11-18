@@ -12,6 +12,6 @@ This [assignment](https://github.com/anlawyer/clim680/blob/main/multipanel-clima
 
 ## Composite analysis
 
-This [assignment](https://github.com/anlawyer/clim680/blob/main/composite-analysis.ipynb) uses examines the relationship between the `t2m` temperature data and the AMO (Atlantic Multidecadal Oscillation) [Index](https://psl.noaa.gov/data/timeseries/AMO/) with maps and a statistical test: 
+This [assignment](https://github.com/anlawyer/clim680/blob/main/composite-analysis.ipynb) examines the relationship between the `t2m` temperature data and the AMO (Atlantic Multidecadal Oscillation) [Index](https://psl.noaa.gov/data/timeseries/AMO/) with maps and a statistical test: 
 
 <img width="981" height="395" alt="image" src="https://github.com/user-attachments/assets/51db8c4f-ec7d-4008-8a96-fdb3fdee8a47" />
